@@ -326,5 +326,4 @@ class ThemeExtractPlugin {
     }
 }
 
-ThemeExtractPlugin.loader = require.resolve("./themeExtractLoader");
 module.exports = ThemeExtractPlugin;
